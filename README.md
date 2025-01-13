@@ -6,7 +6,6 @@
 - 😄 Pronouns: he/him
 
 ## 🌐 Socials:
-Reach Me on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arefshamss)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arefshamss)
 
