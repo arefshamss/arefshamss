@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Portfolio-arefshams.com-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://aref.info">
-    <img src="https://img.shields.io/badge/English_Site-aref.info-green?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Personal_Site-aref.info-green?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
 
@@ -49,16 +49,17 @@
 
 ---
 
-## 📈 Stats
-![Aref's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arefshamss&show_icons=true&theme=radical" alt="Aref's GitHub stats" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 * **Website:** [arefshams.com](https://arefshams.com)
 * **Email:** [sh.aref@ymail.com](mailto:sh.aref@ymail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arefshamspour)
+* **LinkedIn:** [linkedin.com/in/arefshamspour](https://www.linkedin.com/in/arefshamspour)
 
 
 <p align="center">
